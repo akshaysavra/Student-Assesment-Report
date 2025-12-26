@@ -9,8 +9,8 @@
 ### How to Run
 
 1. Start Backend
-
-```bash cd backend
+2. ```bash
+cd backend
 npm install
 node server.js
 
