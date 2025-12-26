@@ -12,13 +12,14 @@
 ```
 cd backend
 npm install
-node server.js ```
-
+node server.js
+```
 2. Start Frontend
+```
 cd frontend
 npm install
 npm run dev
-
+```
 ### Data Storage
 Scores are stored in backend/data.json
 
