@@ -10,13 +10,13 @@
 
 1. Start Backend
 ```
-cd backend
+cd server
 npm install
 node server.js
 ```
 2. Start Frontend
 ```
-cd frontend
+cd client
 npm install
 npm run dev
 ```
