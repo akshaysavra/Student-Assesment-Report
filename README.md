@@ -9,11 +9,12 @@
 ### How to Run
 
 1. Start Backend
-cd backend
+
+```bash cd backend
 npm install
 node server.js
 
-2. Start Frontend
+3. Start Frontend
 cd frontend
 npm install
 npm run dev
